@@ -87,6 +87,7 @@ if (!empty($_SESSION['active'])) {
     </div>
     <!-- container-scroller -->
     <!-- plugins:js -->
+    <!-- cambio de ejemplo -->
     <script src="assets/js/material-dashboard.js"></script>
     <!-- endinject -->
 </body>
